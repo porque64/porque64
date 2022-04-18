@@ -22,4 +22,4 @@
   
   ---
   
-  
+ ![Snake animation](https://github.com/porquezin/porquezin/blob/output/github-contribution-grid-snake.svg)
