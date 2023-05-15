@@ -1,4 +1,4 @@
-# Opa! Aqui é o porquezin.
+# Opa! Aqui é o pqzin.
 
 ---
 
@@ -10,7 +10,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="pqzin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="pqzin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pqzin-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="pqzin-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
   <img align="center" alt="pqzin-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
